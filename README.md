@@ -24,11 +24,13 @@ This project focuses on creating a smooth and engaging animation for form input 
 2.  **Open `index.html`:** Open the `index.html` file in your web browser.
 
 ## 🧰 Project Structure
-
+```
 form-input-wave/
-├── index.html      // Main HTML file (contains the form structure)
-├── style.css       // CSS stylesheet (styles the form and implements the wave effect)
-└── script.js      // JavaScript file (currently for sound effects, can be used for other dynamic behavior
+├── index.html       # // Main HTML file (contains the form structure)
+├── style.css        # CSS stylesheet (styles the form and implements the wave effect)
+└── script.js        # JavaScript file (currently for sound effects, can be used for other dynamic behavior
+```
+
 
 ## ✨ Features
 
