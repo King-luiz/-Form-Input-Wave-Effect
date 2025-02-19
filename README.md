@@ -26,10 +26,12 @@ This project focuses on creating a smooth and engaging animation for form input 
 ## 🧰 Project Structure
 
 form-input-wave/
-├── index.html      // Main HTML file
-├── style.css       // CSS stylesheet
-└── script.js      // JavaScript for interactivity
-
+├── index.html
+├── style.css
+├── script.js        // For sound effects
+├── wave-effect.js  // If you separate the wave effect JS
+└── images/
+    └── background.jpg
 
 ## ✨ Features
 
