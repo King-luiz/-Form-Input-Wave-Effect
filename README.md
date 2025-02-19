@@ -19,19 +19,16 @@ This project focuses on creating a smooth and engaging animation for form input 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME].git
+    git clone [https://github.com/King-luiz/-Form-Input-Wave-Effect].git
     ```
 2.  **Open `index.html`:** Open the `index.html` file in your web browser.
 
 ## 🧰 Project Structure
 
 form-input-wave/
-├── index.html
-├── style.css
-├── script.js        // For sound effects
-├── wave-effect.js  // If you separate the wave effect JS
-└── images/
-    └── background.jpg
+├── index.html      // Main HTML file (contains the form structure)
+├── style.css       // CSS stylesheet (styles the form and implements the wave effect)
+└── script.js      // JavaScript file (currently for sound effects, can be used for other dynamic behavior
 
 ## ✨ Features
 
